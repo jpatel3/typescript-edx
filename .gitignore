@@ -1,0 +1,5 @@
+/node_modules/*
+/edx_6/node_modules/*
+/edx_7_8/node_modules/*
+/edx_9/node_modules/*
+/edx_10/node_modules/*
